@@ -19,7 +19,7 @@ public class User {
         incomes.add(i);
     }
     public void editIncome(){
-
+        //someone needs to code this
     }
     public void deleteIncome(int index){
         incomes.remove(index);
@@ -28,7 +28,7 @@ public class User {
         expenses.add(e);
     }
     public void editExpense(){
-
+        //someone needs to code this
     }
     public void deleteExpense(int index){
         expenses.remove(index);
