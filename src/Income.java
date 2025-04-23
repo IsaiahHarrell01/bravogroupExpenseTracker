@@ -1,0 +1,1 @@
+public record Income(double amount, String source, String data) { }
