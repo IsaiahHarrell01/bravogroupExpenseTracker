@@ -13,6 +13,7 @@ an administrator can login to view and/or edit user entries, generate a minimal 
 be able to view a minimal and/or detailed (combined) report with reference to all users of the
 application, view a list of all registered users and their respective user roles in the application, etc.
 application, view a list of all registered users and their respective user roles in the application, etc.
+
 The aim of this software project is to create a fully functional application using modern desk-
 top or web-development technologies. This project will showcase the students’ skills, projects,
 achievements, teamwork, etc.; thereby providing potential employers or clients with an overview
