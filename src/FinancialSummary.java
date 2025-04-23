@@ -1,2 +1,1 @@
-public record FinancialSummary(double totalIncome, double totalExpenses, double remainingBalance) {
-}
+public record FinancialSummary(double totalIncome, double totalExpenses, double remainingBalance) { }
